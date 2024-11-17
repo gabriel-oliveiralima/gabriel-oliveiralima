@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao me perfil 😁
+## Welcome to my profile! 😁
 
  <div>
    <a href="https://github.com/gabriel-oliveiralima">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Me contate pelas redes abaixo!
+### Contact me through the networks below!
  
 <div> 
   <!-- Botao Youtube 
